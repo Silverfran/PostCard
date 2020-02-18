@@ -10,6 +10,7 @@
   width: 600px;
   height: 300px;
   background-image: url(img/4geeks.png);
+  color: black;
 }
 body{
   background-color: black;
@@ -45,7 +46,6 @@ img{
   bottom:12%;
   left:40%;
 }
-<<<<<<< HEAD
 
 .better_input_style{
   font-family: 'Handlee';
@@ -54,5 +54,3 @@ img{
   border: 0;
   border-bottom: 1px solid;
 }
-=======
->>>>>>> c09bf443b3f13859918ff0887aa2329329d05b74
